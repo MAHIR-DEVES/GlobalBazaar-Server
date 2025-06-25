@@ -201,5 +201,3 @@ If you encounter issues:
 2. Check Firebase service account key
 3. Ensure all environment variables are set
 4. Check CORS settings match your client URLs
-
-For additional help, please open an issue in the repository.
